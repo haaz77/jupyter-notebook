@@ -1,0 +1,5 @@
+jupyterhub
+numpy
+scipy
+matplotlib
+jupyterlab
